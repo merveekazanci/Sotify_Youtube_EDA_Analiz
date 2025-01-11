@@ -1,1 +1,1 @@
-# Sotify_Youtube_EDA_Analiz
+# Sotify_Youtube_EDA_Analysis
